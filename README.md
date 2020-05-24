@@ -31,8 +31,8 @@ mentor: Békefi Gábor__
 #### Fekete téma <br>
 ![fekete_téma](/images/dark.png)
 #### Mobil téma <br>
-Jelenleg egy mellékes funkcióként van jelen, nem lett rá különösebb energia fordítva.<br>
 ![mobil](/images/mobile.png)
+Jelenleg egy mellékes funkcióként van jelen, nem lett rá különösebb energia fordítva.
 ### Témakörök
 ### Moderáció
 ## Technikai adatok
