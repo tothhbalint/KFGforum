@@ -1,6 +1,6 @@
 # Fórumlehetőség az iskola honlapján
 __2019/2020 projektmunka <br>
-Kereszthury Péter - Tóth bálint <br>
+Kereszthury Péter - Tóth Bálint <br>
 mentor: Békefi Gábor__
 
 <h2><details>
