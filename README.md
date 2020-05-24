@@ -7,6 +7,10 @@ mentor: Békefi Gábor__
 <summary>Tartalom</summary>
 
 + [Projekt Céljai](#projekt-céljai)
++ [A fórumról](#a-fórumról)
+  + [Kinézet](#kinézet)
+  + [Témakörök](#témakörök)
+  + [Moderáció](#moderáció)
 + [Technikai adatok](#technikai-adatok)
   + [Webszerver](#webszerver)
   + [Adatbázis](#adatbázis)
@@ -20,6 +24,10 @@ mentor: Békefi Gábor__
 
 
 ## Projekt céljai
+## A fórumról
+### Kinézet
+### Témakörök
+### Moderáció
 ## Technikai adatok
 ### Webszerver
 ### Adatbázis
