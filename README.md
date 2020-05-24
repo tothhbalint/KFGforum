@@ -12,8 +12,7 @@ mentor: Békefi Gábor__
   + [Témakörök](#témakörök)
   + [Moderáció](#moderáció)
 + [Technikai adatok](#technikai-adatok)
-  + [Webszerver](#webszerver)
-  + [Adatbázis](#adatbázis)
+  + [Rendszer](#rendszer)
   + [Fórumszoftver](#fórumszoftver)
 + [Elérni kívánt eredmények](#elérni-kívánt-eredmények)
 + [Napló](#napló)
@@ -24,6 +23,7 @@ mentor: Békefi Gábor__
 
 
 ## Projekt céljai
+Mind a ketten találkoztunk az iskolai tanulás során olyan kérdésekkel, amelyekre csak kevesen (főleg végzős diákok) tudtak válaszolni. Szerettünk volna egy olyan iskolai felületet kialakítani, amely az ezekre a kérdésekre adott információt eltárolva a következő évfolyamok segítségére is lehet. A célunk egy olyan iskolai fórum létrehozása, amelyben a diákok iskolatársaiktól, illetve tanáraiktól tudhatnak meg az iskolával és a tanórákkal kapcsolatos információkat. Ez a fórum nagyobb segítséget nyújthat az érettségizőknek, hiányzóknak vagy a dolgozatok előtt álló diákoknak. Mivel a tanárok is tudnak válaszokat adni, kérdéseket feltenni, javíthatja a tanár-diák kapcsolatot, illetve terhet vehet le az iskolában tanító tanárok válláról.
 ## A fórumról
 ### Kinézet
 #### Kfg téma <br>
@@ -34,12 +34,24 @@ mentor: Békefi Gábor__
 ![mobil](/images/mobile.png)<br>
 Jelenleg egy mellékes funkcióként van jelen, nem lett rá különösebb energia fordítva.
 ### Témakörök
+A fórum négy nagyobb részre van tagolva, Tantárgyak, Belső vizsgák, Érettségi és Egyéb opciók közül választhtunk. Ezeken belül tudunk helyet találni kérdésünknek, amire a sok opciónak köszönhetően biztos találunk megfelelő kategóriát.
 ### Moderáció
+Az oldal manuálisan moderálható, viszont van egy alap káromkodásszűrő rajta, ami a leggyakkoribb trágár szavakat megfogja és nem engedi át őket. A lista nem teljesen pontos a jövőben egyszerűen bővíthető.
 ## Technikai adatok
-### Webszerver
-### Adatbázis
+### Rendszer
+Próbáltuk teszt keretnek lemodellezni az iskola szerverét, így egy VPS-re telepítettünk Debian-t, rá Apache 2-t PhP-t és MySQL-t, mivel az iskola oldala is ezeket használja, így könnyebben integrálható a weboldalra. 
 ### Fórumszoftver
+Erre a célra a MyBB-t választottuk személyre szabhatóság, modularitás és sokoldalúsága miatt. Magáról a weboldalról lehet a fórum stílusát, beállításait változtatni, valamint több plugint lehet a fórumot üzemeltető cég hivatalos oldaláról letölteni. Felhasználása iskolai keretek között ingyenes.
 ## Elérni kívánt eredmények
+  - Egy rövid használati szabályzat írása
+  - Telepítés, átmásolás az iskola szerverére
+  - Magyar - angol nyelvű kezelőfelület
+  - A weboldal elemeinek optimalizálása a diákok számára
+  - Az iskola stílusához igazodó kinézet / téma, illetve 2. téma
+  - A mostani diákok és tanárok felhasználóneveinek és jelszavainak átírása
+  - Zárt regisztrációs felület
+  - Adminisztrátori feladatok minimalizálása
+  - A fórum regisztrációjához szükséges e-mail cím létrehozása
 
 ## Napló
 <details>
