@@ -50,9 +50,9 @@ mentor: Békefi Gábor__
   + "2019. 11. 30.: Magyar fordítás keresése és telepítése"
   + "2019. 12. 29.: A fórum adminisztrátori konfigurálása"
   + "2020. 02. 10.: A fórum újratelepítése"
-  + "2020. 02. 15.: [Kfg téma](#kfg-téma) elkészítése"
+  + "2020. 02. 15.: [Kfg téma](#kfg-téma-) elkészítése"
   + "2020. 02. 18.: Fórum konfigurálás, teljesítményoptimalizálás"
   + "2020. 02. 19.: Fórum szerkezetének, témaköreinek kialakítása"
-  + "2020. 02. 20.: [Fekete téma](#fekete-téma) elkészítése"
+  + "2020. 02. 20.: [Fekete téma](#fekete-téma-) elkészítése"
 
 </details>
