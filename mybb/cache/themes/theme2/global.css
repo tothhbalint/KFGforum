@@ -53,7 +53,8 @@ a:active {
 }
 
 #logo {
-	background: #bfb8b8;
+background: rgb(148,54,22);
+background: radial-gradient(circle, rgba(148,54,22,1) 0%, rgba(218,125,94,1) 100%);
 	padding: 10px 0;
 	border-bottom: 1px solid #263c30;
 }
