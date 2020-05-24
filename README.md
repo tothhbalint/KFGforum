@@ -69,5 +69,6 @@ Erre a célra a MyBB-t választottuk személyre szabhatóság, modularitás és 
   + "2020. 02. 18.: Fórum konfigurálás, teljesítményoptimalizálás"
   + "2020. 02. 19.: Fórum szerkezetének, témaköreinek kialakítása"
   + "2020. 02. 20.: [Fekete téma](#fekete-téma-) elkészítése"
+  + "2020. 05. 10.: [Trágár szó szűrés](#moderáció) hozzáadása"
 
 </details>
