@@ -30,6 +30,9 @@ mentor: Békefi Gábor__
 ![kfg_téma](/images/kfg.png)
 #### Fekete téma <br>
 ![fekete_téma](/images/dark.png)
+#### Mobil téma <br>
+Jelenleg egy mellékes funkcióként van jelen, nem lett rá különösebb energia fordítva.<br>
+![mobil](/images/mobile.png)
 ### Témakörök
 ### Moderáció
 ## Technikai adatok
