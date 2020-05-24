@@ -36,19 +36,19 @@ mentor: Békefi Gábor__
 
 ## Napló
 <details>
-  <summary>asd</summary>
+  <summary></summary>
   
-    + 2019. 10. 28.A fórumot futtató szerver megtalálása, felállítása és létrehozása.
-    + 2019. 11. 05.: A projektmunka pontos céljainak rendezése, a célokhoz ideális fórumszoftverek keresése
-    + 2019. 11. 10.: A végleges fórumszoftver kiválasztása, technikai adatainak pontosabb megismerése
-    + 2019. 11. 12.: A fórum telepítésének megkezdése a tesztszerverre.
-    + 2019. 11. 20.: Kisebb technikai problémák kijavítása, további optimalizálás
-    + 2019. 11. 30.: Magyar fordítás keresése és telepítése
-    + 2019. 12. 29.: A fórum adminisztrátori konfigurálása
-    + 2020. 02. 10.: A fórum újratelepítése
-    + 2020. 02. 15.: Kfg téma elkészítése
-    + 2020. 02. 18.: Fórum konfigurálás, teljesítményoptimalizálás
-    + 2020. 02. 19.: Fórum szerkezetének, témaköreinek kialakítása
-    + 2020. 02. 20.: Fekete téma elkészítése
-    
+  + "2019. 10. 28.A fórumot futtató szerver megtalálása, felállítása és létrehozása."
+  + "2019. 11. 05.: A projektmunka pontos céljainak rendezése, a célokhoz ideális fórumszoftverek keresése"
+  + "2019. 11. 10.: A végleges fórumszoftver kiválasztása, technikai adatainak pontosabb megismerése"
+  + "2019. 11. 12.: A fórum telepítésének megkezdése a tesztszerverre."
+  + "2019. 11. 20.: Kisebb technikai problémák kijavítása, további optimalizálás"
+  + "2019. 11. 30.: Magyar fordítás keresése és telepítése"
+  + "2019. 12. 29.: A fórum adminisztrátori konfigurálása"
+  + "2020. 02. 10.: A fórum újratelepítése"
+  + "2020. 02. 15.: Kfg téma elkészítése"
+  + "2020. 02. 18.: Fórum konfigurálás, teljesítményoptimalizálás"
+  + "2020. 02. 19.: Fórum szerkezetének, témaköreinek kialakítása"
+  + "2020. 02. 20.: Fekete téma elkészítése"
+
 </details>
