@@ -1,1 +1,28 @@
-# KFGforum
+# Fórumlehetőség az iskola honlapján
+__2019/2020 projektmunka <br>
+Kereszthury Péter - Tóth bálint <br>
+mentor: Békefi Gábor__
+
+<h2><details>
+<summary>Tartalom</summary>
+
++ [Projekt Céljai](#projekt-céljai)
++ [Technikai adatok](#technikai-adatok)
+  + [Webszerver](#webszerver)
+  + [Adatbázis](#adatbázis)
+  + [Fórumszoftver](#fórumszoftver)
++ [Elérni kívánt eredmények](#elérni-kívánt-eredmények)
++ [Napló](#napló)
+
+
+</details></h2>
+
+
+
+## Projekt céljai
+## Technikai adatok
+### Webszerver
+### Adatbázis
+### Fórumszoftver
+## Elérni kívánt eredmények
+## Napló
