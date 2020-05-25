@@ -36,7 +36,7 @@ Jelenleg egy mellékes funkcióként van jelen, nem lett rá különösebb energ
 ### Témakörök
 A fórum négy nagyobb részre van tagolva, Tantárgyak, Belső vizsgák, Érettségi és Egyéb opciók közül választhtunk. Ezeken belül tudunk helyet találni kérdésünknek, amire a sok opciónak köszönhetően biztos találunk megfelelő kategóriát.
 ### Moderáció
-Az oldal manuálisan moderálható, viszont van egy alap káromkodásszűrő rajta, ami a leggyakkoribb trágár szavakat megfogja és cenzúrázza ezeket. A lista nem teljesen pontos a jövőben egyszerűen bővíthető.
+Az oldal manuálisan moderálható, viszont működik egy alap káromkodásszűrő egy [wordlist](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) alapján rajta, ami a leggyakkoribb trágár szavakat megfogja és cenzúrázza ezeket. A lista nem teljesen pontos a jövőben egyszerűen bővíthető.
 ## Technikai adatok
 ### Rendszer
 Próbáltuk teszt keretnek lemodellezni az iskola szerverét, így egy VPS-re telepítettünk Debian-t, rá Apache 2-t PhP-t és MySQL-t, mivel az iskola oldala is ezeket használja, így könnyebben integrálható a weboldalra. 
