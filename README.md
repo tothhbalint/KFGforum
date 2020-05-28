@@ -15,6 +15,7 @@ mentor: Békefi Gábor__
   + [Rendszer](#rendszer)
   + [Fórumszoftver](#fórumszoftver)
 + [Elérni kívánt eredmények](#elérni-kívánt-eredmények)
++ [Tervek a következő tanévre](#tervek-a-következő-tanévre)
 + [Napló](#napló)
 
 
@@ -32,11 +33,12 @@ Mind a ketten találkoztunk az iskolai tanulás során olyan kérdésekkel, amel
 ![fekete_téma](/images/dark.png)
 #### Mobil téma <br>
 ![mobil](/images/mobile.png)<br>
-Jelenleg egy mellékes funkcióként van jelen, nem lett rá különösebb energia fordítva.
+A mobiltelefonokon használható téma jelenleg csak mellékes funkcióként van jelen, egyenlőre nem lett rá különösebb energia fordítva, elsősorban a fórum elérhetőségének és használhatóságának a növelésére alkalmas.
 ### Témakörök
-A fórum négy nagyobb részre van tagolva, Tantárgyak, Belső vizsgák, Érettségi és Egyéb opciók közül választhtunk. Ezeken belül tudunk helyet találni kérdésünknek, amire a sok opciónak köszönhetően biztos találunk megfelelő kategóriát.
+A fórum négy nagyobb részre van tagolva: Tantárgyak, Belső vizsgák, Érettségi és Egyéb opciók közül választhtunk. Ezeken belül tudunk helyet találni kérdésünknek, amire a sok lehetőségnek köszönhetően biztosan találunk megfelelő kategóriát. A különböző tantárgyakhoz minden főbb kategóriában lehet találni saját szekciót így könnyítve a navigálást.
 ### Moderáció
-Az oldal manuálisan moderálható, viszont működik egy alap káromkodásszűrő egy [wordlist](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) alapján rajta, ami a leggyakkoribb trágár szavakat megfogja és cenzúrázza ezeket. A lista nem teljesen pontos a jövőben egyszerűen bővíthető.
+Az oldal manuálisan moderálható, viszont működik egy alap káromkodásszűrő egy [wordlist](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words) alapján rajta, ami a leggyakkoribb trágár szavakat megfogja és cenzúrázza ezeket. A lista nem teljesen pontos a jövőben egyszerűen bővíthető és módosítható. A fórumot bárki megtekintheti előzetes regisztráció nélkül, viszont a kommentek és kérdések írásához bejelentkezés szükséges. Egyenlőre a regisztráció a moderátorokon keresztül zajlik, új regisztráció esetén a fórum üzenetet küld a hozzá rendelt e-mail címre, amelyben a regisztráló adatainak áttekintése után a moderátorok engedélyezhetik és véglegesíthetik a regisztrációt. Amennyiben a regisztrációs kérés nem lett engedélyezve, 30 nap után automatikusan törlődik. <br>
+(A törlés ideje és a regisztráció rendszere módosítható a fórum oldalán található konfigurációs felületen.)
 ## Technikai adatok
 ### Rendszer
 Próbáltuk teszt keretnek lemodellezni az iskola szerverét, így egy VPS-re telepítettünk Debian-t, rá Apache 2-t PhP-t és MySQL-t, mivel az iskola oldala is ezeket használja, így könnyebben integrálható a weboldalra. 
@@ -45,13 +47,19 @@ Erre a célra a MyBB-t választottuk személyre szabhatóság, modularitás és 
 ## Elérni kívánt eredmények
   - Egy rövid használati szabályzat írása
   - Telepítés, átmásolás az iskola szerverére
-  - Magyar - angol nyelvű kezelőfelület
-  - A weboldal elemeinek optimalizálása a diákok számára
-  - Az iskola stílusához igazodó kinézet / téma, illetve 2. téma
+  - Magyar - angol nyelvű kezelőfelület ✓
+  - A weboldal elemeinek optimalizálása a diákok számára ✓
+  - Az iskola stílusához igazodó kinézet / téma, illetve 2. téma ✓
   - A mostani diákok és tanárok felhasználóneveinek és jelszavainak átírása
-  - Zárt regisztrációs felület
-  - Adminisztrátori feladatok minimalizálása
-  - A fórum regisztrációjához szükséges e-mail cím létrehozása
+  - Zárt regisztrációs felület ✓
+  - Adminisztrátori feladatok minimalizálása ✓
+  - A fórum regisztrációjához szükséges e-mail cím létrehozása <br>
+A projekt befejezésére szükségünk lett volna az iskolában is dolgozni, azonban a koronavírus járvány miatt az iskolai szerverre való tükrözéssel együtt több dolgot sem tudtunk megoldani, amelyeket így a következő iskolaévre kell halasztanunk.
+
+## Tervek a következő tanévre
++ Telepítés, átmásolás az iskola szerverére
++ A fórum regisztrációjához szükséges e-mail cím létrehozása
++ Adminisztrátori feladatok további, minimalizálása, a káromkodásszűrő bővítése
 
 ## Napló
 <details>
@@ -70,5 +78,6 @@ Erre a célra a MyBB-t választottuk személyre szabhatóság, modularitás és 
   + "2020. 02. 19.: Fórum szerkezetének, témaköreinek kialakítása"
   + "2020. 02. 20.: [Fekete téma](#fekete-téma-) elkészítése"
   + "2020. 05. 10.: [Trágár szó szűrés](#moderáció) hozzáadása"
+  + "2020. 05. 15.: A fórum felső menü színének módosítás"
 
 </details>
